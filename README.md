@@ -7,3 +7,4 @@ Controls: left joystick = movement relative to camera; swipe outside controls = 
 Upload the individual files to the root of a GitHub repository, then enable Settings → Pages → Deploy from branch → main → root.
 
 Three.js loads from jsDelivr, so internet is required.
+https://arya-da-goat.github.io/Doodle-World/
